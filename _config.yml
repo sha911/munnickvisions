@@ -1,5 +1,5 @@
 baseurl: '/munnickvisions'
-url: "https://sha911.github.io"
+url: "munnickvisions.co.za"
 exclude: ['README.md']
 permalink: pretty
 title: 'Munnick Visions'
