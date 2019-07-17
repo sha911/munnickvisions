@@ -1,4 +1,4 @@
-baseurl: '/munnickvisions'
+baseurl: ''
 url: "munnickvisions.co.za"
 exclude: ['README.md']
 permalink: pretty
